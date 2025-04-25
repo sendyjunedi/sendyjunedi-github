@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sendy"
-title                    : "Sendy/ Sendy"
+title                    : "Sendy"
 title_separator          : "-"
 name                     : &name "Sendy Junedi"
 description              : &description "Researcher in protein and peptide science"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sendyjunedi/sendyjunedi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,10 +26,10 @@ author:
   name             : "sendy"
   pronouns         : # example: "she/her"  
   bo              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Yogyakarta"
   employer         : "Universitas Atma Jaya Yogyakarta"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sendy.junedi@uajy.ac.id" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
